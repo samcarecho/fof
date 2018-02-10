@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["bower_components/webcomponentsjs/webcomponents-loader.js","f13bbbbf647b7922575a7894367ddaaf"],["images/favicon.ico","82b34d0faee76b89a9f946763428f668"],["images/fishLogo.png","b31c271e9f12c7ffc6704f73df74aa6f"],["images/news1.jpeg","5fc395e079b85b9edb47c7390cfb514a"],["images/news2.jpeg","eface993a04c16db61a0d5da5047c0a6"],["index.html","b743e96e245158924e630327e039c018"],["manifest.json","1845171d3c4fe9ebe6a48852f4347b34"],["src/my-app.html","1baa8f53646b9b5c9d878d0e4f72c9d2"],["src/my-news.html","72f850d8467c079e67c005ed6b5a1038"],["src/my-view2.html","8769c4e68f2d83f4bf64f77e838b4fc8"],["src/my-view3.html","eaebcefa31b6e1b9b548d6e4ea1bf283"],["src/my-view404.html","d9973d9df8cade205a927e12a703685e"]];
+var precacheConfig = [["bower_components/webcomponentsjs/webcomponents-loader.js","f13bbbbf647b7922575a7894367ddaaf"],["images/favicon.ico","82b34d0faee76b89a9f946763428f668"],["images/news1.jpeg","5fc395e079b85b9edb47c7390cfb514a"],["images/news2.jpeg","eface993a04c16db61a0d5da5047c0a6"],["index.html","b743e96e245158924e630327e039c018"],["manifest.json","226a9588fe354defdc64c0ffbdbb708b"],["src/my-app.html","f248d7fd7ce5216d44be303f94b7e56f"],["src/my-news.html","964f1da883fae92ef7a12d4c46195bac"],["src/my-view2.html","da2eccc21dbcd1ed5b68a92e995b1179"],["src/my-view3.html","2b3da782ae7452fc5531f38b47dede97"],["src/my-view404.html","d9973d9df8cade205a927e12a703685e"]];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
